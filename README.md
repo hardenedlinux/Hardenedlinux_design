@@ -1,2 +1,4 @@
 # Hardenedlinux_design
-Hardenedlinux design.
+
+T-shirt design by D_Eva.
+
