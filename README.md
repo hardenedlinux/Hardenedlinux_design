@@ -1,12 +1,23 @@
-# Hardenedlinux_design
+# HardenedLinux's Art & Design
 
-## Thanks 
+All of our work are released under Creative Commons License
 
-T-shirt design by D_Eva.   
+## Hall of Fame
 
-HardenedLinux Black logo design by D_Eva.  
+2015:
 
-HardenedCore logo design by D_Eva.  
+  * HardenedLinux White logo, by tomcat
 
-Harbian logo design by D_Eva.  
+2016:
 
+  * T-shirt design by D_Eva
+
+2017:
+
+  * HardenedLinux Black logo, by D_Eva
+  * HardenedCore logo, by D_Eva
+
+2018:
+
+  * Harbian logo, by D_Eva
+  * The Fellowship of Libre firmware: Hunting the Shadow, by Echo
