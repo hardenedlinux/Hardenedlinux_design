@@ -21,3 +21,8 @@ All of our work are released under Creative Commons License
 
   * Harbian logo, by D_Eva
   * The Fellowship of Libre firmware: Hunting the Shadow, by Echo
+
+2019:
+
+  * HardenedLinux sticker, by D_Eva
+
