@@ -25,4 +25,5 @@ All of our work are released under Creative Commons License
 2019:
 
   * HardenedLinux sticker, by D_Eva
+  * HardenedLinux Webcam Cover Slide, by D_Eva
 
